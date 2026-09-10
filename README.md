@@ -9,11 +9,27 @@ This topology divides into multi-areas with Area 0 serving as a backbone area, o
   To implement a multi-Area OSPF network that enables dynamic routing and efficient communication between routers and end-user from different areas while providing scalable and faster automatic route convergence.
 
 
-<h3💪 Skills Demonstrated</h3>
+<h3>💪 Skills Demonstrated</h3>
 
 1. Implementation of OSPF multi-area
 2. Assigning different area to minimize the sharing of LSDB of router to a one ABR
 3. Configuring Redistribution allowing an EIGRP protocol to share its remote network to the OSPF domain
-4. 
+4. Assign IP address to the routers and PC
+5. Configuring general routing configuration
 
+<h3>Project Walk Through</h3>
+
+<p align="center">
+Network Diagram: <br/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/OSPF.png" height="80%" width="80%"/>
+<br />
+
+<h4>Routing table and Neighbor of each router</h4>
+
+<p align="left">
+Area 0: <br/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="80%" width="80%"/>
+<br />
+<img src="https://github.com/mimsy07/OSPF/blob/main/A0%20neig.png" height="80%" width="80%"/>
+<br />
   
