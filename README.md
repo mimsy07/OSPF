@@ -153,8 +153,8 @@ ip ospf message-digest-key 1 md5 cisco
 ````
 
 <br />
-<h3>R4 Router-ID 4.4.4.4</h3><p>ASBR and ABR of Area 3</p>
-<br />
+<h3>R4 Router-ID 4.4.4.4</h3><p>ABR of Area 3 and external router (ASBR)</p>
+
 <p>Create Loopback interface for EIGRP remote network</p>
 
 ````
