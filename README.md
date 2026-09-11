@@ -29,29 +29,29 @@ Network Diagram: <br/>
 
 <h4><b>Area 0:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="60%" width="60%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="40%" width="70%"/>
 <br />
 <img src="https://github.com/mimsy07/OSPF/blob/main/A0%20neig.png" height="70%" width="70%"/>
 <br />
 
 <h4><b>Area 1:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area1.png" height="40%" width="40%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area1.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 2:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area2.png" height="40%" width="40%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area2.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 3:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area3.png" height="40%" width="40%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area3.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 4:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area4.png" height="40%" width="40%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area4.png" height="40%" width="70%"/>
 
 
 <h2>Configuration</h2>
