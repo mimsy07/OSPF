@@ -29,7 +29,7 @@ Network Diagram: <br/>
 
 <h4><b>Area 0:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="50%" width="50%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="60%" width="60%"/>
 <br />
 <img src="https://github.com/mimsy07/OSPF/blob/main/A0%20neig.png" height="70%" width="70%"/>
 <br />
