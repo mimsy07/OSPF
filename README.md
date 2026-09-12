@@ -22,36 +22,34 @@ This topology divides into multi-areas with Area 0 serving as a backbone area, o
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://github.com/mimsy07/OSPF/blob/main/OSPF.png" height="80%" width="80%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Topo.png" height="80%" width="80%"/>
 <br />
 
-<h3>Routing table and Neighbor of each router</h3>
+<h3>Routing table and Neighbor of each ABR router</h3>
 
 <h4><b>Area 0:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area0.png" height="40%" width="70%"/>
-<br />
-<img src="https://github.com/mimsy07/OSPF/blob/main/A0%20neig.png" height="70%" width="70%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Area%20zero.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 1:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area1.png" height="40%" width="70%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Area%201.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 2:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area2.png" height="40%" width="70%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Area%202.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 3:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area3.png" height="40%" width="70%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Area%203.png" height="40%" width="70%"/>
 <br />
 
 <h4><b>Area 4:</b></h4>
   
-<img src="https://github.com/mimsy07/OSPF/blob/main/Area4.png" height="40%" width="70%"/>
+<img src="https://github.com/mimsy07/OSPF/blob/main/images/Area4.png" height="40%" width="70%"/>
 
 
 <h2>Configuration</h2>
